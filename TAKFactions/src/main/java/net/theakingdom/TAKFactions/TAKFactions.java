@@ -20,7 +20,7 @@ public class TAKFactions extends JavaPlugin {
     }
 
     public FileConfiguration loadDataConfig() {
-        data = new File(this.getDataFolder(), "ranks.yml");
+        data = new File(this.getDataFolder(), "factions.yml");
         if (!data.exists()) {
             try {
                 data.createNewFile();
