@@ -1,0 +1,7 @@
+name: Factions
+version: '${project.version}'
+main: net.theakingdom.factions.Factions
+api-version: 1.18
+authors: [ Ecolipsy, ItzScythe, TheAKingdomDevTeam ]
+description: Factions plugin for TAK
+website: https://theakingdom.net
